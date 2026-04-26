@@ -19,7 +19,7 @@ Welcome to my cybersecurity learning and portfolio repository. This space docume
 - **TryHackMe – Introduction to Cyber Security (In Progress)**
   - Topics: Threat types, encryption, VPN, firewalls
 
-### 🔄 In Progress
+### ✅ Completed
 - **TryHackMe – Linux Fundamentals Part 1 & 2**
 - **Cisco Networking Basics Module 3**
 - Creating Linux cheatsheets and tool documentation
@@ -34,7 +34,7 @@ Welcome to my cybersecurity learning and portfolio repository. This space docume
 - Platform: [TryHackMe Room Link](https://tryhackme.com/)
 
 ### 2. Linux Fundamentals Part 1
-- 🟡 In progress
+- ✅ Completed
 - Commands learned: `ls`, `cd`, `cat`, `nano`, `pwd`, `chmod`
 
 ## 🧰 Tools Explored
